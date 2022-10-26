@@ -13,7 +13,7 @@ composer update
 
 + change .env.example as .env
 + set database name
-
++ php artisan migrate
 + php artisan serve
 
 + run " http://localhost:8000/ "
