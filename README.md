@@ -4,16 +4,16 @@ Complete with
 + Livewire
 + Ajax
 
-database : topjobs
 
+-----------------------------
 composer update
-php artisan key:generate
-npm install
-npm run dev
++ php artisan key:generate
++ npm install
++ npm run dev
 
-change .env.example as .env
-set database name
++ change .env.example as .env
++ set database name
 
-php artisan serve
++ php artisan serve
 
-run " http://localhost:8000/ "
++ run " http://localhost:8000/ "
